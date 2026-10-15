@@ -21,7 +21,7 @@ selected starting position and moving through December.
 
 Add each month's sales change to currentTotal. 
 
-If currentTotal is greater than bestTotal.
+If currentTotal is greater than bestTotal:
 --> Update bestTotal to equal currentTotal. 
 --> Store the current starting index in bestStart.
 --> Store the current ending index in bestEnd. 
