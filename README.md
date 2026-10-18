@@ -16,3 +16,12 @@ sales change in dollars (millions).
 
 ## Issues or Limitations
 The program does not allow user input and cannot read data from an external file. 
+
+# Video link
+
+https://drive.google.com/file/d/1-qOIs99PXkZYiRtPPBqLHQbOy6TkIMyK/view?usp=sharing
+
+## Side Notes
+I made a mistake in my explanation during the Java statement explanation section of my video. I said that index 0 corresponded to February when it actually corresponded to January. 
+The video is a little more than 5 minutes because I had some trouble at the start of the recording. 
+For the test case, I just used the original sales data. 
